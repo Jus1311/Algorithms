@@ -23,7 +23,8 @@ The tool that I used is the built in Intellij Coverage tool. I used it on the wh
 Function 1: hashCode
 Test 1: binarynodetest
 
-<Show a patch (diff) or a link to a commit made in your forked repository that shows the new/enhanced tests for function 1>
+https://github.com/Jus1311/Algorithms/blob/master/src/main/java/com/github/pedrovgs/binarytree/BinaryNode.java
+https://github.com/Jus1311/Algorithms/commit/328321eae08fe6de933d824135d3cb7f4278763e
 
 Old Coverage:
 ![no alt](https://github.com/Jus1311/Algorithms/blob/master/images/Oldcoverage1%20ver1.png)
@@ -41,7 +42,8 @@ The reason the coverage was improved was due to the binarynodetest class increas
 Function 2: addNodeToStack
 Test 2: addnodetostacktest
 
-<Show a patch (diff) or a link to a commit made in your forked repository that shows the new/enhanced tests for function 2>
+https://github.com/Jus1311/Algorithms/commit/b764b5f5667554be19c5ea39b3603ca9a5344f9b
+https://github.com/Jus1311/Algorithms/commit/a76f078adab88e846f50fc7aee86ab3aa1c5b4d4
 
 Old Coverage:
 ![no alt](https://github.com/Jus1311/Algorithms/blob/master/images/oldcoveragefunction2.png)
