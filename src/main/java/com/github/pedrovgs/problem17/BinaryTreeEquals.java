@@ -87,6 +87,9 @@ public class BinaryTreeEquals {
     if (node != null) {
       stack.add(node);
     }
+    else {
+      System.out.println("Stack is empty");
+    }
   }
 
   private void validateInput(BinaryNode tree1, BinaryNode tree2) {
